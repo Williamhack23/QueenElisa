@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==AN0UXV3V3cYV3dykzN5MVWadVYSRjT3VkdNZ0d21SNGpUTWJ0TaR0cHNHOjskUTNjaxQWQpwd=50568128772',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -23,16 +23,16 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
+  BOT_NAME: 'DARK_WONDER23',
+  OWNER_NAME: 'ᴍ ʀ  WONDER',
+  OWNER_NUMBER: '27782186505',
+  SUDO: '27782186505',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
-  STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
-  STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
+  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ DARK_WONDER23',
+  STICKER_AUTHOR: 'DARK_WONDER23',
+  STICKER_PACK: 'ᴍʀ WONDER ᴏꜰᴄ',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90,
   OWNER_R_EMOJI: '👽',
@@ -70,7 +70,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
       '❌ My owner has activated auto inbox blocking. So you will be auto blocked after 8 seconds'
   },
   BOT_RULES:
-    "*⚖️ 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add groups without asking owner.\n"
+    "*⚖️ DARK_WONDER23 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add groups without asking owner.\n"
 }
 
 let file = require.resolve(__filename)
